@@ -3,6 +3,7 @@ This is an app for visualizing a chemical process(granulation of cocoa powder) u
 <p align="center">
 Landing Page
 </p>
+<!-- Blank line for separation -->
 ![](images/1.jpg)
 Lab Environment
 ![](images/2.jpg)
